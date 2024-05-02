@@ -1,3 +1,27 @@
+steps for setup the project
+
+
+
+Project Setup:
+------------------------- cd weather
+--------------------------npm install
+
+
+-------------------------- npm start
+
+//////////////////////////
+you need to make sure these packages are installed in your project. You can install them using npm or yarn:
+
+
+----------------------------------------  npm install react-live-clock react-animated-weather axios
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
